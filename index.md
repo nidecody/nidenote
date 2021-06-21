@@ -4,7 +4,7 @@ nidenote is a discord bot where you can post notes for anyone to see without hav
 
 ### dev
 
-the bot is fully developed by Simtlers#8561 on discord. in case you find any bugs, it is better to not report them to the dev.
+the bot is fully developed by Simtlers#8561 on discord. in case you find any bugs, it is better to not report them to the dev directly but to the support server right below this section.
 
 ### support/official server
 
