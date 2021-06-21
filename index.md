@@ -2,34 +2,14 @@
 
 nidenote is a discord bot where you can post notes for anyone to see without having to make your discord identity be attached to the notes.
 
-### Markdown
+### dev
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+the bot is fully developed by Simtlers#8561 on discord. in case you find any bugs, it is better to not report them to the dev.
 
-```markdown
-Syntax highlighted code block
+### support/official server
 
-# Header 1
-## Header 2
-### Header 3
+the official/support server is used as a place to chat about nidenote and to report any bugs found. if you do find any bugs, report them into the server here:
 
-- Bulleted
-- List
+### invite
 
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/nidecody/nidenote/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+if you wanna add nidenote to your server, you can do so by clicking here.
