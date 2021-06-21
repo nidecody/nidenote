@@ -12,4 +12,6 @@ the official/support server is used as a place to chat about nidenote and to rep
 
 ### invite
 
-if you wanna add nidenote to your server, you can do so by clicking here.
+#### important: invite for the bot is currently not public. the text below still exists for when the link goes public.
+
+if you wanna add nidenote to your server, you can do so by clicking this link:
